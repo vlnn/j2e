@@ -8,7 +8,7 @@ This may be useful for some paranoid Clojure developers.
 
 ## Installation
 
-**j2e** workflow depends on [borkdude])https://github.com/borkdude)'s great utility called [jet])https://github.com/borkdude/jet). You have to install if before using this workflow.
+**j2e** workflow depends on [borkdude](https://github.com/borkdude)'s great utility called [jet](https://github.com/borkdude/jet). You have to install if before using this workflow.
 
 * Install **brew**: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
