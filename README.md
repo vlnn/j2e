@@ -1,8 +1,8 @@
-# j2e
+# j2e Alfred workflow
 
 ## Alfred workflow to convert between JSON and EDN
 
-This is fast-n-dirty workflow that transforms JSON files to EDN format or vice versa. The conversion is local, so you may not be afraid of your client's data leaks.
+This is fast-n-dirty [Alfred](https://www.alfredapp.com/) workflow that transforms JSON files to EDN format or vice versa. The conversion is local, so you may not be afraid of your client's data leaks.
 
 This may be useful for some paranoid Clojure developers.
 
